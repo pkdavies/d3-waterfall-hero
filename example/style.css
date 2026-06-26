@@ -1,0 +1,18 @@
+/* example/style.css – original d3-waterfall demo styles */
+
+a, a:visited {
+  color: red;
+}
+
+select {
+  position: relative;
+}
+
+div.tooltip {
+  background: #000;
+  border: 0;
+  border-radius: 3px;
+  color: #fff;
+  padding: 8px;
+  text-align: center;
+}
